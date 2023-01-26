@@ -9,7 +9,7 @@ import Footer from "./footer";
 
 function App() {
   return (
-    <>
+    <main>
       <header className="">
         <Navbar />
       </header>
@@ -40,7 +40,7 @@ function App() {
             </li>
           </ul>
         </article>
-        <article className="mt-5">
+        <article className="m">
           <picture className="">
             <source
               media="(min-width:768px)"
@@ -52,7 +52,7 @@ function App() {
         </article>
       </section>
       <Footer />
-    </>
+    </main>
   );
 }
 

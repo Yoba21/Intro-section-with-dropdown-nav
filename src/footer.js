@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div class="attribution">
+    <footer class="attribution">
       Challenge by
       <a href="https://www.frontendmentor.io?ref=challenge" target="blank">
         Frontend Mentor
@@ -12,7 +12,7 @@ const Footer = () => {
         Eyob Zelalem
       </a>
       .
-    </div>
+    </footer>
   );
 };
 
