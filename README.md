@@ -4,12 +4,17 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ### Links
 
+You can get the full source code for the solution of the challenge intro-section with drop down nav here .
+
 - Solution URL: [Solution URL] (https://github.com/Yoba21/Intro-section-with-dropdown-nav)
+
+You can view the project using this url .
+
 - Live Site URL: [Live site URL] (https://yoba21.github.io/Intro-section-with-dropdown-nav/)
 
 This project is build using this framework and libraries
 
-- using React javascript library and tailwind css
+- Using React javascript library and Tailwind css
 - CSS custom properties
 - Flexbox
 - CSS Grid
@@ -19,5 +24,5 @@ This project is build using this framework and libraries
 
 ## Author
 
-- Website - [Eyob Zelalem](https://www.linkedin.com/in/eyob-zelalem-21420522b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6d2VWYnxTa%2BrHQ%2Ff40nk0A%3D%3D)
+- Website - [Eyob Zelalem](https://www.linkedin.com/in/eyob-zelalem-21420522b/)
 - Frontend Mentor - [@Yoba21](https://www.frontendmentor.io/profile/@Yoba21)
